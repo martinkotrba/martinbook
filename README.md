@@ -10,17 +10,47 @@ index.html
 </head>
 
 <body>
-<h1>Impressum & Datenschutz</h1>
+<h1>Impressum & Datenschutzerklärung</h1>
 
+<h2>Impressum</h2>
 <p><strong>Name:</strong> Martin Kotrba</p>
-<p><strong>Adresse:</strong> Annafeldweg, 3650 Pöggstall, Österreich</p>
-<p><strong>Tätigkeit:</strong> Pinterest Affiliate Marketing</p>
+<p><strong>Anschrift:</strong> Annafeldweg, 3650 Pöggstall, Österreich</p>
+<p><strong>Unternehmensgegenstand:</strong> Pinterest Affiliate Marketing / Content Creation</p>
+
+<p><strong>Mitglied bei:</strong> Wirtschaftskammer Österreich (WKO)</p>
+<p><strong>Aufsichtsbehörde:</strong> Bezirkshauptmannschaft Melk</p>
+
 <p><strong>E-Mail:</strong> martin.books@gmx.at</p>
+
 
 <h2>Datenschutz</h2>
 <p>Diese Website dient Informationszwecken. Bei Kontakt per E-Mail werden Daten zur Bearbeitung gespeichert.</p>
 
 <p>Affiliate-Links: Bei Käufen über Links erhalte ich eine Provision ohne Mehrkosten für Sie.</p>
+
+<h2>Datenschutzerklärung</h2>
+
+<p>Der Schutz Ihrer persönlichen Daten ist mir ein besonderes Anliegen. Ich verarbeite Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003).</p>
+
+<p><strong>Kontakt mit mir:</strong><br>
+Wenn Sie per E-Mail Kontakt mit mir aufnehmen, werden Ihre angegebenen Daten gespeichert.</p>
+
+<p><strong>Server-Logfiles:</strong><br>
+Der Provider speichert automatisch Informationen wie IP-Adresse, Browsertyp und Zeitpunkt des Zugriffs.</p>
+
+<p><strong>Cookies:</strong><br>
+Diese Website kann Cookies verwenden, um das Angebot nutzerfreundlich zu gestalten.</p>
+
+<p><strong>Affiliate-Links:</strong><br>
+Diese Website enthält Affiliate-Links. Wenn Sie über solche Links einkaufen, erhalte ich eine Provision.</p>
+
+<p><strong>Pinterest:</strong><br>
+Bei Nutzung von Pinterest können Daten in die USA übertragen werden.</p>
+
+<p><strong>Ihre Rechte:</strong><br>
+Sie haben das Recht auf Auskunft, Berichtigung und Löschung Ihrer Daten.</p>
+
+<p>Beschwerden: https://ec.europa.eu/odr</p>
 
 </body>
 </html>
